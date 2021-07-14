@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is node server for ichat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Shubham Thorat",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.0.0"
+  }
+}
